@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: #DBFBEC;
+}
+
+.header-title {
+  text-align: center;
+  padding: 50px;
+}
+
+.flex-container {
+    text-align: center;
+}
+
+section {
+    overflow-x: auto;
+}
+
+table {
+width: 100%;
+margin: auto;
+
+}
+
+th {
+    height: 60px;
+    background-color: #F3EFE0;
+    font-size: larger;
+}
+
+td {
+    text-align: left;
+    padding: 5px;
+}
+
+table, th, td{
+    border: 1px solid #D5B35D;
+    border-collapse: collapse;
+}
+
+code {
+    background-color: lightgrey;
+}
